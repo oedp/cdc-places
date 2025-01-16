@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cdc.gov	TRUE	/	FALSE	1999999999	akamai_visit_id	ae062c1789962766617a
+.cdc.gov	TRUE	/	FALSE	1999999999	Akamai-Request-ID	ae062c1789970766b9bc
+www.cdc.gov	TRUE	/	FALSE	1999999999	SameSite	none
+
